@@ -1,0 +1,109 @@
+.button {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 114px;
+    height: 40px;
+    border-radius: 20px;
+    opacity: 1;
+}
+
+.primary1 {
+    background: #0AA1E2 0% 0% no-repeat padding-box;  
+    color: white;
+}
+.primary2 {
+    background: #0883C0 0% 0% no-repeat padding-box;  
+    color: white;
+}
+.primary3 {
+    background: #07669E 0% 0% no-repeat padding-box;  
+    color: white;
+}
+.primary4 {
+    background: #CCCCCC 0% 0% no-repeat padding-box;  
+    color: white;
+}
+
+.secondary1 {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #0AA1E2;
+    color: black;
+}
+.secondary2 {
+    background: #E7F4FA 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 8px #0D212E26;
+    border: 1px solid #0AA1E2;
+    color: black;
+}
+.secondary3 {
+    background: #C3E6F5 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 8px #0D212E26;
+    border: 1px solid #0065A0;
+    color: black;
+}
+.secondary4 {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #CCCCCC;
+    color: black;
+}
+
+.success1 {
+    background: #63A373 0% 0% no-repeat padding-box;
+    color: white;
+}
+.success2 {
+    background: #548E61 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 8px #0D212E26;
+    color: white;
+}
+.success3 {
+    background: #477850 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 8px #0D212E26;
+    color: white;
+}
+.success4 {
+    background: #CCCCCC 0% 0% no-repeat padding-box;
+    color: white;
+}
+
+.danger1 {
+    background: #C93931 0% 0% no-repeat padding-box;
+    color: white;
+}
+.danger2 {
+    background: #AC2D2A 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 8px #0D212E26;
+    color: white;
+}
+.danger3 {
+    background: #902325 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 8px #0D212E26;
+    color: white;
+}
+.danger4 {
+    background: #CCCCCC 0% 0% no-repeat padding-box;
+    color: white;
+}
+
+.warning1 {
+    background: #FF992B 0% 0% no-repeat padding-box;
+    color: white;
+}
+.warning2 {
+    background: #F48206 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 8px #0D212E26;
+    color: white;
+}
+.warning3 {
+    background: #D87101 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 8px #0D212E26;
+    color: white;
+}
+.warning4 {
+    background: #CCCCCC 0% 0% no-repeat padding-box;
+    color: white;
+}
