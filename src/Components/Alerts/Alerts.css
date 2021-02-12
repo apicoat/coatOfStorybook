@@ -1,0 +1,44 @@
+div {
+    width: 960px;
+    border-radius: 8px;
+    opacity: 1;
+    color: #fff;
+    padding-top: 14px;
+    padding-bottom: 16px;
+    padding-left: 20px;
+}
+
+.primarySuccess {
+    background: #63A373 0% 0% no-repeat padding-box;
+}
+.infoAlert {
+    background: #0AA1E2 0% 0% no-repeat padding-box;
+}
+.warningAlert {
+    background: #FF992B 0% 0% no-repeat padding-box;
+}
+.errorAlert {
+    background: #C93931 0% 0% no-repeat padding-box;
+}
+
+
+.primarySuccessOutlined {
+    background: #F0F6F2 0% 0% no-repeat padding-box;
+    border: 1px solid #63A373;
+    color: #000;
+}
+.infoAlertOutlined {
+    background: #E7F4FA 0% 0% no-repeat padding-box;
+    border: 1px solid #0AA1E2;
+    color: #000;
+}
+.warningAlertOutlined {
+    background: #FDF2E5 0% 0% no-repeat padding-box;
+    border: 1px solid #FF992B;
+    color: #000;
+}
+.errorAlertOutlined {
+    background: #F8E4E2 0% 0% no-repeat padding-box;
+    border: 1px solid #C93931;
+    color: #000;
+}
