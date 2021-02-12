@@ -5,7 +5,7 @@ function Alerts(props) {
     const { variant = 'primarySuccess', children, ...rest } = props;
 
     return (
-        <div className={ `alert ${variant}`} {...rest}>
+        <div className={ `alerts ${variant}`} {...rest}>
             {children}
         </div>
     )
